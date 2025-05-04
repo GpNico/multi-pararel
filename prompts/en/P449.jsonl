@@ -1,0 +1,16 @@
+{"pattern": "[X] debuted on [Y] ."}
+{"pattern": "[X] is to debut on [Y] ."}
+{"pattern": "[X] premiered on [Y] ."}
+{"pattern": "[X] premieres on [Y] ."}
+{"pattern": "[X] was aired on [Y] ."}
+{"pattern": "[X] was originally aired on [Y] ."}
+{"pattern": "[X] was originally shown on [Y] ."}
+{"pattern": "[X] was released on [Y] ."}
+{"pattern": "Did [X] debut on [Y]?"}
+{"pattern": "Did [X] premiere on [Y]?"}
+{"pattern": "Does [X] premiere on [Y]?"}
+{"pattern": "Is [X] to debut on [Y]?"}
+{"pattern": "Was [X] aired on [Y]?"}
+{"pattern": "Was [X] originally aired on [Y]?"}
+{"pattern": "Was [X] originally shown on [Y]?"}
+{"pattern": "Was [X] released on [Y]?"}

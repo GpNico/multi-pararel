@@ -1,0 +1,18 @@
+{"pattern": "[X] est limitrophe de [Y]."}
+{"pattern": "[X] partage une fronti\u00e8re avec [Y]."}
+{"pattern": "[X] partage une fronti\u00e8re commune avec [Y]."}
+{"pattern": "Le [X] partage une fronti\u00e8re avec le [Y]."}
+{"pattern": "[X] partage des fronti\u00e8res avec [Y]."}
+{"pattern": "[X] partage sa fronti\u00e8re avec [Y]."}
+{"pattern": "[X] partage ses fronti\u00e8res avec [Y]."}
+{"pattern": "[X] partage la fronti\u00e8re avec [Y]."}
+{"pattern": "[X] partage les fronti\u00e8res avec [Y]."}
+{"pattern": "[X] est-elle \u00e0 la fronti\u00e8re avec [Y]?"}
+{"pattern": "[X] partage une fronti\u00e8re avec [Y]?"}
+{"pattern": "[X] partage-t-elle une fronti\u00e8re commune avec [Y]?"}
+{"pattern": "Le [X] partage une fronti\u00e8re avec le [Y]?"}
+{"pattern": "[X] partage-t-elle des fronti\u00e8res avec [Y]?"}
+{"pattern": "[X] partage sa fronti\u00e8re avec [Y]?"}
+{"pattern": "[X] partage ses fronti\u00e8res avec [Y]?"}
+{"pattern": "[X] partage la fronti\u00e8re avec [Y]?"}
+{"pattern": "[X] partage les fronti\u00e8res avec [Y]?"}

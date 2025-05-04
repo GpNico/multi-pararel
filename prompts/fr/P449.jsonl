@@ -1,0 +1,16 @@
+{"pattern": "[X] a fait ses d\u00e9buts sur [Y]."}
+{"pattern": "[X] est en train de faire ses d\u00e9buts sur [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 pr\u00e9sent\u00e9 pour la premi\u00e8re fois sur [Y]."}
+{"pattern": "[X] est en premi\u00e8re sur [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 diffus\u00e9 sur [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 diffus\u00e9 \u00e0 l'origine sur [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 initialement diffus\u00e9 sur [Y]."}
+{"pattern": "[X] est sorti sur [Y]."}
+{"pattern": "[X] a-t-il fait ses d\u00e9buts sur [Y]?"}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 pr\u00e9sent\u00e9 en premi\u00e8re sur [Y]?"}
+{"pattern": "[X] a-t-il sa premi\u00e8re sur [Y]?"}
+{"pattern": "[X] va faire ses d\u00e9buts sur [Y]?"}
+{"pattern": "[X] a \u00e9t\u00e9 diffus\u00e9 sur [Y]?"}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 diffus\u00e9 \u00e0 l'origine sur [Y]?"}
+{"pattern": "[X] ont-ils \u00e9t\u00e9 diffus\u00e9s \u00e0 la [Y]?"}
+{"pattern": "[X] est sorti sur [Y]?"}

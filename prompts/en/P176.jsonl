@@ -1,0 +1,28 @@
+{"pattern": "[X] is a product of [Y] ."}
+{"pattern": "[X] is created by [Y] ."}
+{"pattern": "[X] is developed by [Y] ."}
+{"pattern": "[X] is produced by [Y] ."}
+{"pattern": "[X] was created by [Y] ."}
+{"pattern": "[X] was developed by [Y] ."}
+{"pattern": "[X] was produced by [Y] ."}
+{"pattern": "[X], a product created by [Y] ."}
+{"pattern": "[X], a product developed by [Y] ."}
+{"pattern": "[X], a product manufactured by [Y] ."}
+{"pattern": "[X], a product of [Y] ."}
+{"pattern": "[X], created by [Y] ."}
+{"pattern": "[X], developed by [Y] ."}
+{"pattern": "[X], produced by [Y] ."}
+{"pattern": "Is [X] a product created by [Y]?"}
+{"pattern": "Is [X] a product developed by [Y]?"}
+{"pattern": "Is [X] a product manufactured by [Y]?"}
+{"pattern": "Is [X] a product of [Y]?"}
+{"pattern": "Is [X] created by [Y]?"}
+{"pattern": "Is [X] developed by [Y]?"}
+{"pattern": "Is [X] produced by [Y]?"}
+{"pattern": "Was [X] a product created by [Y]?"}
+{"pattern": "Was [X] a product developed by [Y]?"}
+{"pattern": "Was [X] a product manufactured by [Y]?"}
+{"pattern": "Was [X] a product of [Y]?"}
+{"pattern": "Was [X] created by [Y]?"}
+{"pattern": "Was [X] developed by [Y]?"}
+{"pattern": "Was [X] produced by [Y]?"}

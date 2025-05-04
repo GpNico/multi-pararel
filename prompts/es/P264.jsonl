@@ -1,0 +1,59 @@
+{"pattern": "El sello musical que representa a [X] es [Y]."}
+{"pattern": "El sello musical que representaba a [X] era [Y]."}
+{"pattern": "El sello musical que est\u00e1 representando a [X] es [Y]."}
+{"pattern": "El sello musical que represent\u00f3 a [X] fue [Y]."}
+{"pattern": "El sello discogr\u00e1fico que representa a [X] es [Y]."}
+{"pattern": "El sello discogr\u00e1fico que representaba a [X] era [Y]."}
+{"pattern": "El sello discogr\u00e1fico que est\u00e1 representando a [X] es [Y]."}
+{"pattern": "[X] est\u00e1 representado por [Y]."}
+{"pattern": "[X] est\u00e1 representado por el sello musical [Y]."}
+{"pattern": "[X] est\u00e1 representado por el sello discogr\u00e1fico [Y]."}
+{"pattern": "[X] ha firmado con [Y]."}
+{"pattern": "[X] etiqueta: [Y]."}
+{"pattern": "[X] grab\u00f3 para [Y]."}
+{"pattern": "[X] graba para [Y]."}
+{"pattern": "[X] fue emitido por [Y]."}
+{"pattern": "[X] fue publicado por el sello discogr\u00e1fico [Y]."}
+{"pattern": "[X] fue publicado por [Y]."}
+{"pattern": "[X] fue lanzado por [Y]."}
+{"pattern": "[X] fue representado por [Y]."}
+{"pattern": "[X] fue representado por el sello musical [Y]."}
+{"pattern": "[X] fue representado por el sello discogr\u00e1fico [Y]."}
+{"pattern": "[X] firm\u00f3 con [Y]."}
+{"pattern": "El sello de [X] fue [Y]."}
+{"pattern": "El sello musical de [X] es [Y]."}
+{"pattern": "El sello musical de [X] fue [Y]."}
+{"pattern": "La compa\u00f1\u00eda discogr\u00e1fica de [X] es [Y]."}
+{"pattern": "La compa\u00f1\u00eda discogr\u00e1fica de [X] fue [Y]."}
+{"pattern": "El sello discogr\u00e1fico de [X] es [Y]."}
+{"pattern": "El sello discogr\u00e1fico de [X] fue [Y]."}
+{"pattern": "[X], lanzado por [Y]."}
+{"pattern": "[X], que est\u00e1 representado por [Y]."}
+{"pattern": "[X], que fue representado por [Y]."}
+{"pattern": "\u00bf[X] grab\u00f3 para [Y]?"}
+{"pattern": "\u00bf[X] graba para [Y]?"}
+{"pattern": "\u00bf[X] est\u00e1 representado por [Y]?"}
+{"pattern": "\u00bf[X] est\u00e1 representado por el sello [Y]?"}
+{"pattern": "\u00bf[X] est\u00e1 representado por el sello musical [Y]?"}
+{"pattern": "\u00bf[X] est\u00e1 representado por el sello discogr\u00e1fico [Y]?"}
+{"pattern": "\u00bf[X] ha firmado con [Y]?"}
+{"pattern": "\u00bfEl sello representa a [X] [Y]?"}
+{"pattern": "\u00bfEs el sello que representa a [X] [Y]?"}
+{"pattern": "\u00bfEl sello de m\u00fasica representa a [X] [Y]?"}
+{"pattern": "\u00bfEs el sello musical que representa a [X] [Y]?"}
+{"pattern": "\u00bfEl sello discogr\u00e1fico representa a [X] [Y]?"}
+{"pattern": "\u00bfEs el sello discogr\u00e1fico que representa a [X] [Y]?"}
+{"pattern": "\u00bf[X] fue publicado por [Y]?"}
+{"pattern": "\u00bfFue [X] publicado por [Y]?"}
+{"pattern": "\u00bfFue [X] lanzado por [Y]?"}
+{"pattern": "\u00bfFue [X] representado por [Y]?"}
+{"pattern": "\u00bf[X] estaba representado por el sello [Y]?"}
+{"pattern": "\u00bf[X] estaba representado por el sello musical [Y]?"}
+{"pattern": "\u00bf[X] estaba representado por el sello discogr\u00e1fico [Y]?"}
+{"pattern": "\u00bf[X] firm\u00f3 con [Y]?"}
+{"pattern": "\u00bfEl sello representaba a [X] [Y]?"}
+{"pattern": "\u00bfFue el sello que representaba a [X] [Y]?"}
+{"pattern": "\u00bfEl sello de m\u00fasica representaba a [X] [Y]?"}
+{"pattern": "\u00bfFue el sello musical que representa a [X] [Y]?"}
+{"pattern": "\u00bfEl sello discogr\u00e1fico representaba a [X] [Y]?"}
+{"pattern": "\u00bfFue el sello discogr\u00e1fico que representa a [X] [Y]?"}

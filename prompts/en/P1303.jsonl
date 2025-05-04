@@ -1,0 +1,5 @@
+{"pattern": "[X] plays [Y] ."}
+{"pattern": "[X] plays the [Y] ."}
+{"pattern": "[X] plays the music instrument [Y] ."}
+{"pattern": "Does [X] play [Y]?"}
+{"pattern": "Does [X] play the [Y]?"}

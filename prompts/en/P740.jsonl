@@ -1,0 +1,21 @@
+{"pattern": "[X] formed in [Y] ."}
+{"pattern": "[X] originated in [Y] ."}
+{"pattern": "[X] started in [Y] ."}
+{"pattern": "[X] that was founded in [Y] ."}
+{"pattern": "[X] was created in [Y] ."}
+{"pattern": "[X] was formed in [Y] ."}
+{"pattern": "[X] was founded in [Y] ."}
+{"pattern": "[X] was started in [Y] ."}
+{"pattern": "[X], created in [Y] ."}
+{"pattern": "[X], founded in [Y] ."}
+{"pattern": "[X], that originated in [Y] ."}
+{"pattern": "[X], that was created in [Y] ."}
+{"pattern": "[X], that was formed in [Y] ."}
+{"pattern": "[X], that was started in [Y] ."}
+{"pattern": "Did [X] form in [Y]?"}
+{"pattern": "Did [X] originate in [Y]?"}
+{"pattern": "Did [X] start in [Y]?"}
+{"pattern": "Was [X] created in [Y]?"}
+{"pattern": "Was [X] formed in [Y]?"}
+{"pattern": "Was [X] founded in [Y]?"}
+{"pattern": "Was [X] started in [Y]?"}

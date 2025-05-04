@@ -1,0 +1,21 @@
+{"pattern": "[X] a \u00e9t\u00e9 form\u00e9 \u00e0 [Y]."}
+{"pattern": "[X] est originaire de [Y]."}
+{"pattern": "[X] a commenc\u00e9 \u00e0 [Y]."}
+{"pattern": "[X] qui a \u00e9t\u00e9 fond\u00e9e \u00e0 [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 cr\u00e9\u00e9e \u00e0 [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 fond\u00e9e \u00e0 [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 lanc\u00e9 \u00e0 [Y]."}
+{"pattern": "[X], cr\u00e9\u00e9 \u00e0 [Y]."}
+{"pattern": "[X], fond\u00e9e \u00e0 [Y]."}
+{"pattern": "[X], qui est originaire de [Y]."}
+{"pattern": "[X], qui a \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 [Y]."}
+{"pattern": "[X], qui a \u00e9t\u00e9 form\u00e9 \u00e0 [Y]."}
+{"pattern": "[X], qui a \u00e9t\u00e9 lanc\u00e9 \u00e0 [Y]."}
+{"pattern": "[X] s'est form\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] est n\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] a-t-il commenc\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 form\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 fond\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 lanc\u00e9 \u00e0 [Y]?"}

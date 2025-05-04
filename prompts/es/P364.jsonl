@@ -1,0 +1,16 @@
+{"pattern": "El idioma de [X] es el [Y]."}
+{"pattern": "El idioma de [X] era el [Y]."}
+{"pattern": "El idioma original de [X] es el [Y]."}
+{"pattern": "El idioma original de [X] era el [Y]."}
+{"pattern": "[X] fue interpretado originalmente en [Y]."}
+{"pattern": "[X] fue interpretado originalmente en idioma [Y]."}
+{"pattern": "[X] fue interpretado originalmente en el siguiente idioma: [Y]."}
+{"pattern": "[X] fue originalmente jugado en [Y]."}
+{"pattern": "[X] fue originalmente jugado en idioma [Y]."}
+{"pattern": "[X] se jug\u00f3 originalmente en el siguiente idioma: [Y]."}
+{"pattern": "\u00bf[X] fue interpretado originalmente en [Y]?"}
+{"pattern": "\u00bfFue [X] originalmente interpretado en [Y]?"}
+{"pattern": "\u00bf[X] fue interpretado originalmente en el siguiente idioma: [Y]?"}
+{"pattern": "\u00bf[X] fue originalmente jugado en [Y]?"}
+{"pattern": "\u00bf[X] fue originalmente interpretado en [Y]?"}
+{"pattern": "\u00bf[X] se jug\u00f3 originalmente en el siguiente idioma: [Y]?"}

@@ -1,0 +1,12 @@
+{"pattern": "[X] appartient au genre [Y]."}
+{"pattern": "[X] est un musicien de [Y]."}
+{"pattern": "[X] joue du [Y]."}
+{"pattern": "[X] joue le genre musical suivant [Y]."}
+{"pattern": "[X] joue le genre [Y]."}
+{"pattern": "[X] joue le genre du [Y]."}
+{"pattern": "[X] joue le genre de musique [Y]."}
+{"pattern": "[X] joue le genre musical du [Y]."}
+{"pattern": "[X] est sp\u00e9cialis\u00e9 dans le genre [Y]."}
+{"pattern": "[X], qui joue du [Y]."}
+{"pattern": "[X] joue du [Y]?"}
+{"pattern": "[X] est un musicien de [Y]?"}

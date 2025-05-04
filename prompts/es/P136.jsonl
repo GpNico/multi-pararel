@@ -1,0 +1,13 @@
+{"pattern": "[X] pertenece al g\u00e9nero [Y]."}
+{"pattern": "[X] es un m\u00fasico de [Y]."}
+{"pattern": "[X] toca el [Y]."}
+{"pattern": "[X] toca el siguiente g\u00e9nero de [Y]."}
+{"pattern": "[X] toca el siguiente g\u00e9nero musical [Y]."}
+{"pattern": "[X] toca el g\u00e9nero [Y]."}
+{"pattern": "[X] toca el g\u00e9nero del [Y]."}
+{"pattern": "[X] toca el g\u00e9nero musical [Y]."}
+{"pattern": "[X] toca el g\u00e9nero musical del [Y]."}
+{"pattern": "[X] se especializa en el g\u00e9nero [Y]."}
+{"pattern": "[X], quien toca el [Y]."}
+{"pattern": "\u00bf[X] toca el [Y]?"}
+{"pattern": "\u00bf[X] es un m\u00fasico que toca [Y]?"}

@@ -1,0 +1,6 @@
+{"pattern": "Le [X] se trouve \u00e0 [Y]."}
+{"pattern": "[X] est \u00e0 [Y]."}
+{"pattern": "[X] est situ\u00e9 \u00e0 [Y]."}
+{"pattern": "[X] peut-il \u00eatre trouv\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] est \u00e0 [Y]?"}
+{"pattern": "Le [X] est-il situ\u00e9 \u00e0 [Y]?"}

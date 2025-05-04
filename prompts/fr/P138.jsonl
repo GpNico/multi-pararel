@@ -1,0 +1,21 @@
+{"pattern": "L'[X] porte le nom de [Y]."}
+{"pattern": "[X] est nomm\u00e9 d'apr\u00e8s [Y]."}
+{"pattern": "L'[X] est nomm\u00e9 d'apr\u00e8s [Y]."}
+{"pattern": "L'[X] a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y]."}
+{"pattern": "[X] a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y]."}
+{"pattern": "Le [X] a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s le [Y]."}
+{"pattern": "L'[X], nomm\u00e9 d'apr\u00e8s [Y]."}
+{"pattern": "[X], nomm\u00e9 d'apr\u00e8s [Y]."}
+{"pattern": "[X], nomm\u00e9 d'apr\u00e8s le [Y]."}
+{"pattern": "L'[X], qui porte le nom de [Y]."}
+{"pattern": "[X], qui porte le nom de [Y]."}
+{"pattern": "[X], qui est nomm\u00e9 d'apr\u00e8s [Y]."}
+{"pattern": "[X], qui a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y]."}
+{"pattern": "L'[X], qui a \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y]."}
+{"pattern": "[X], qui a \u00e9t\u00e9 nomm\u00e9 pour le [Y]."}
+{"pattern": "L'[X] porte le nom de [Y]?"}
+{"pattern": "L'[X] porte-t-il le nom de [Y]?"}
+{"pattern": "Le [X] est-il nomm\u00e9 d'apr\u00e8s [Y]?"}
+{"pattern": "L'[X] a-t-il \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y]?"}
+{"pattern": "Le [X] a-t-il \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s [Y]?"}
+{"pattern": "Le [X] a-t-il \u00e9t\u00e9 nomm\u00e9 d'apr\u00e8s le [Y]?"}

@@ -1,0 +1,8 @@
+{"pattern": "[X] es la capital de [Y]."}
+{"pattern": "[X] es la capital de la [Y]."}
+{"pattern": "[X], es la capital de [Y]."}
+{"pattern": "[X], que es la capital de [Y]."}
+{"pattern": "[X], la capital de [Y]."}
+{"pattern": "[X], la capital de la [Y]."}
+{"pattern": "\u00bf[X] es la capital de [Y]?"}
+{"pattern": "\u00bf[X] es la capital de la [Y]?"}

@@ -1,0 +1,11 @@
+{"pattern": "[X] has a citizenship of [Y] ."}
+{"pattern": "[X] holds a citizenship of [Y] ."}
+{"pattern": "[X] is a citizen of [Y] ."}
+{"pattern": "[X], a citizen of [Y] ."}
+{"pattern": "[X], who has a citizenship of [Y] ."}
+{"pattern": "[X], who holds a citizenship of [Y] ."}
+{"pattern": "[X], who is a citizen of [Y] ."}
+{"pattern": "Does [X] have a citizenship of [Y]?"}
+{"pattern": "Does [X] hold a citizenship of [Y]?"}
+{"pattern": "Does [X] hold the citizenship of [Y]?"}
+{"pattern": "Is [X] a citizen of [Y]?"}

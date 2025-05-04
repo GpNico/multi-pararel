@@ -1,0 +1,12 @@
+{"pattern": "[X] and its sister city [Y] ."}
+{"pattern": "[X] and its twin city [Y] ."}
+{"pattern": "[X] has sister city [Y] ."}
+{"pattern": "[X] has twin city [Y] ."}
+{"pattern": "[X] is a sister city of [Y] ."}
+{"pattern": "[X] is a twin city of [Y] ."}
+{"pattern": "[X]'s sister city is [Y] ."}
+{"pattern": "[X]'s twin city is [Y] ."}
+{"pattern": "Is [X] a sister city of [Y]?"}
+{"pattern": "Is [X] a twin city of [Y]?"}
+{"pattern": "Is [X] the sister city of [Y]?"}
+{"pattern": "Is [X] the twin city of [Y]?"}

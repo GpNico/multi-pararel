@@ -1,0 +1,6 @@
+{"pattern": "[X] counts as a legal term in [Y] ."}
+{"pattern": "[X] is a legal term in [Y] ."}
+{"pattern": "[X] is a valid legal term in [Y] ."}
+{"pattern": "Does [X] count as a legal term in [Y]?"}
+{"pattern": "Is [X] a legal term in [Y]?"}
+{"pattern": "Is [X] a valid legal term in [Y]?"}

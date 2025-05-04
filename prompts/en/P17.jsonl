@@ -1,0 +1,8 @@
+{"pattern": "The country [X] is located in is [Y] ."}
+{"pattern": "The state [X] is located in is [Y] ."}
+{"pattern": "[X] is located in [Y] ."}
+{"pattern": "[X] is located in the following country: [Y] ."}
+{"pattern": "[X] is located in the following state: [Y] ."}
+{"pattern": "[X], located in [Y] ."}
+{"pattern": "[X], which is located in [Y] ."}
+{"pattern": "Is [X] located in [Y]?"}

@@ -1,0 +1,23 @@
+{"pattern": "[X] et son produit [Y]."}
+{"pattern": "[X] est construit par [Y]."}
+{"pattern": "[X] est d\u00e9velopp\u00e9 par [Y]."}
+{"pattern": "[X] fait [Y]."}
+{"pattern": "[X] est fabriqu\u00e9 par [Y]."}
+{"pattern": "[X] est produit par [Y]."}
+{"pattern": "[X], qui construit [Y]."}
+{"pattern": "[X], qui a cr\u00e9\u00e9 [Y]."}
+{"pattern": "[X], qui a d\u00e9velopp\u00e9 [Y]."}
+{"pattern": "[X], qui d\u00e9veloppe [Y]."}
+{"pattern": "[X], c'est ce qui fait [Y]."}
+{"pattern": "[X], qui est fabriqu\u00e9 par [Y]."}
+{"pattern": "[X], qui produit [Y]."}
+{"pattern": "[X], le cr\u00e9ateur de [Y]."}
+{"pattern": "Est-ce que [X] a cr\u00e9\u00e9 [Y]?"}
+{"pattern": "[X] est d\u00e9velopp\u00e9 par [Y]?"}
+{"pattern": "Est-ce que [X] fait [Y]?"}
+{"pattern": "[X] est fabriqu\u00e9 par [Y]?"}
+{"pattern": "Est-ce que [X] est produit par [Y]?"}
+{"pattern": "[X] est le cr\u00e9ateur de [Y]?"}
+{"pattern": "[X] est le cr\u00e9ateur de la [Y]?"}
+{"pattern": "[X] a-t-il \u00e9t\u00e9 le cr\u00e9ateur de [Y]?"}
+{"pattern": "[X] \u00e9tait le cr\u00e9ateur de la [Y]?"}

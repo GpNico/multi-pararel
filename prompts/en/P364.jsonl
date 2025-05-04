@@ -1,0 +1,16 @@
+{"pattern": "The language of [X] is [Y] ."}
+{"pattern": "The language of [X] was [Y] ."}
+{"pattern": "The original language of [X] is [Y] ."}
+{"pattern": "The original language of [X] was [Y] ."}
+{"pattern": "[X] was originally performed in [Y] ."}
+{"pattern": "[X] was originally performed in language [Y] ."}
+{"pattern": "[X] was originally performed in the following language: [Y] ."}
+{"pattern": "[X] was originally played in [Y] ."}
+{"pattern": "[X] was originally played in language [Y] ."}
+{"pattern": "[X] was originally played in the following language: [Y] ."}
+{"pattern": "Was [X] originally performed in [Y]?"}
+{"pattern": "Was [X] originally performed in language [Y]?"}
+{"pattern": "Was [X] originally performed in the following language: [Y]?"}
+{"pattern": "Was [X] originally played in [Y]?"}
+{"pattern": "Was [X] originally played in language [Y]?"}
+{"pattern": "Was [X] originally played in the following language: [Y]?"}

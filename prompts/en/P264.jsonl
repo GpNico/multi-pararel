@@ -1,0 +1,64 @@
+{"pattern": "The music label representing [X] is [Y] ."}
+{"pattern": "The music label representing [X] was [Y] ."}
+{"pattern": "The music label that is representing [X] is [Y] ."}
+{"pattern": "The music label that represented [X] was [Y] ."}
+{"pattern": "The record label representing [X] is [Y] ."}
+{"pattern": "The record label representing [X] was [Y] ."}
+{"pattern": "The record label that is representing [X] is [Y] ."}
+{"pattern": "[X] is represented by [Y] ."}
+{"pattern": "[X] is represented by music label [Y] ."}
+{"pattern": "[X] is represented by record label [Y] ."}
+{"pattern": "[X] is signed to [Y] ."}
+{"pattern": "[X] label : [Y] ."}
+{"pattern": "[X] recorded for [Y] ."}
+{"pattern": "[X] records for [Y] ."}
+{"pattern": "[X] was issued by [Y] ."}
+{"pattern": "[X] was issued by record label [Y] ."}
+{"pattern": "[X] was published by [Y] ."}
+{"pattern": "[X] was published by record label [Y] ."}
+{"pattern": "[X] was released by [Y] ."}
+{"pattern": "[X] was released by record label [Y] ."}
+{"pattern": "[X] was represented by [Y] ."}
+{"pattern": "[X] was represented by music label [Y] ."}
+{"pattern": "[X] was represented by record label [Y] ."}
+{"pattern": "[X] was signed to [Y] ."}
+{"pattern": "[X]'s label is [Y] ."}
+{"pattern": "[X]'s label was [Y] ."}
+{"pattern": "[X]'s music label is [Y] ."}
+{"pattern": "[X]'s music label was [Y] ."}
+{"pattern": "[X]'s record company is [Y] ."}
+{"pattern": "[X]'s record company was [Y] ."}
+{"pattern": "[X]'s record label is [Y] ."}
+{"pattern": "[X]'s record label was [Y] ."}
+{"pattern": "[X], released by [Y] ."}
+{"pattern": "[X], that is represented by [Y] ."}
+{"pattern": "[X], that was represented by [Y] ."}
+{"pattern": "[X], which is represented by [Y] ."}
+{"pattern": "[X], which was represented by [Y] ."}
+{"pattern": "Did [X] record for [Y]?"}
+{"pattern": "Does [X] record for [Y]?"}
+{"pattern": "Is [X] represented by [Y]?"}
+{"pattern": "Is [X] represented by label [Y]?"}
+{"pattern": "Is [X] represented by music label [Y]?"}
+{"pattern": "Is [X] represented by record label [Y]?"}
+{"pattern": "Is [X] signed to [Y]?"}
+{"pattern": "Is the label representing [X] [Y]?"}
+{"pattern": "Is the label that is representing [X] [Y]?"}
+{"pattern": "Is the music label representing [X] [Y]?"}
+{"pattern": "Is the music label that is representing [X] [Y]?"}
+{"pattern": "Is the record label representing [X] [Y]?"}
+{"pattern": "Is the record label that is representing [X] [Y]?"}
+{"pattern": "Was [X] issued by [Y]?"}
+{"pattern": "Was [X] published by [Y]?"}
+{"pattern": "Was [X] released by [Y]?"}
+{"pattern": "Was [X] represented by [Y]?"}
+{"pattern": "Was [X] represented by label [Y]?"}
+{"pattern": "Was [X] represented by music label [Y]?"}
+{"pattern": "Was [X] represented by record label [Y]?"}
+{"pattern": "Was [X] signed to [Y]?"}
+{"pattern": "Was the label representing [X] [Y]?"}
+{"pattern": "Was the label that is representing [X] [Y]?"}
+{"pattern": "Was the music label representing [X] [Y]?"}
+{"pattern": "Was the music label that is representing [X] [Y]?"}
+{"pattern": "Was the record label representing [X] [Y]?"}
+{"pattern": "Was the record label that is representing [X] [Y]?"}

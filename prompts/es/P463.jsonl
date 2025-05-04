@@ -1,0 +1,14 @@
+{"pattern": "La [X] pertenece a la [Y]."}
+{"pattern": "[X] pertenece a la [Y]."}
+{"pattern": "La [X] pertenece a la organizaci\u00f3n de la [Y]."}
+{"pattern": "La [X] es miembro de la [Y]."}
+{"pattern": "[X] es miembro de la [Y]."}
+{"pattern": "La [X] est\u00e1 afiliada a la [Y]."}
+{"pattern": "La [X] es parte de la [Y]."}
+{"pattern": "\u00bfLa [X] pertenece a la [Y]?"}
+{"pattern": "\u00bf[X] pertenece a la [Y]?"}
+{"pattern": "\u00bfLa [X] pertenece a la organizaci\u00f3n de la [Y]?"}
+{"pattern": "\u00bfLa [X] es miembro de la [Y]?"}
+{"pattern": "\u00bf[X] es miembro de la [Y]?"}
+{"pattern": "\u00bfLa [X] est\u00e1 afiliada a la [Y]?"}
+{"pattern": "\u00bfLa [X] es parte de la [Y]?"}

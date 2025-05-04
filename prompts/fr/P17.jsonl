@@ -1,0 +1,8 @@
+{"pattern": "Le pays o\u00f9 se trouve [X] est le [Y]."}
+{"pattern": "L'\u00c9tat de [X] est situ\u00e9 en [Y]."}
+{"pattern": "[X] est situ\u00e9 en [Y]."}
+{"pattern": "[X] est situ\u00e9 dans le pays suivant: [Y]."}
+{"pattern": "[X] est situ\u00e9 dans l'\u00c9tat suivant: [Y]."}
+{"pattern": "[X], situ\u00e9 en [Y]."}
+{"pattern": "[X], qui est situ\u00e9 en [Y]."}
+{"pattern": "[X] est-il situ\u00e9 en [Y]?"}

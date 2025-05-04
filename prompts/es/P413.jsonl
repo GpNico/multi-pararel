@@ -1,0 +1,5 @@
+{"pattern": "[X] juega como [Y]."}
+{"pattern": "[X] juega en la posici\u00f3n de [Y]."}
+{"pattern": "La posici\u00f3n de [X] es el [Y]."}
+{"pattern": "\u00bf[X] juega en la posici\u00f3n de [Y]?"}
+{"pattern": "\u00bf[X] juega como [Y]?"}

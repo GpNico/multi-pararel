@@ -1,0 +1,7 @@
+{"pattern": "The religion of [X] is [Y] ."}
+{"pattern": "[X] believes in [Y] ."}
+{"pattern": "[X] is a believer of [Y] ."}
+{"pattern": "[X] is follower of [Y] ."}
+{"pattern": "Does [X] believe in [Y]?"}
+{"pattern": "Is [X] a believer in [Y]?"}
+{"pattern": "Is [X] a follower of [Y]?"}

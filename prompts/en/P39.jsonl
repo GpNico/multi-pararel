@@ -1,0 +1,136 @@
+{"pattern": "[X] had the official position of [Y] ."}
+{"pattern": "[X] had the official role of [Y] ."}
+{"pattern": "[X] had the position of [Y] ."}
+{"pattern": "[X] had the public position of [Y] ."}
+{"pattern": "[X] had the public role of [Y] ."}
+{"pattern": "[X] had the role of [Y] ."}
+{"pattern": "[X] has the official position of [Y] ."}
+{"pattern": "[X] has the official role of [Y] ."}
+{"pattern": "[X] has the position of [Y] ."}
+{"pattern": "[X] has the public position of [Y] ."}
+{"pattern": "[X] has the public role of [Y] ."}
+{"pattern": "[X] has the role of [Y] ."}
+{"pattern": "[X] held the official position of [Y] ."}
+{"pattern": "[X] held the official role of [Y] ."}
+{"pattern": "[X] held the position of [Y] ."}
+{"pattern": "[X] held the public position of [Y] ."}
+{"pattern": "[X] held the public role of [Y] ."}
+{"pattern": "[X] held the role of [Y] ."}
+{"pattern": "[X] holds the official position of [Y] ."}
+{"pattern": "[X] holds the official role of [Y] ."}
+{"pattern": "[X] holds the position of [Y] ."}
+{"pattern": "[X] holds the public position of [Y] ."}
+{"pattern": "[X] holds the public role of [Y] ."}
+{"pattern": "[X] holds the role of [Y] ."}
+{"pattern": "[X] officially held the position of [Y] ."}
+{"pattern": "[X] officially held the role of [Y] ."}
+{"pattern": "[X] officially holds the position of [Y] ."}
+{"pattern": "[X] officially holds the role of [Y] ."}
+{"pattern": "[X]'s official position is [Y] ."}
+{"pattern": "[X]'s official position was [Y] ."}
+{"pattern": "[X]'s official role is [Y] ."}
+{"pattern": "[X]'s official role was [Y] ."}
+{"pattern": "[X]'s position is [Y] ."}
+{"pattern": "[X]'s position was [Y] ."}
+{"pattern": "[X]'s public position is [Y] ."}
+{"pattern": "[X]'s public position was [Y] ."}
+{"pattern": "[X]'s public role is [Y] ."}
+{"pattern": "[X]'s public role was [Y] ."}
+{"pattern": "[X]'s role is [Y] ."}
+{"pattern": "[X]'s role was [Y] ."}
+{"pattern": "[X], who had the official position of [Y] ."}
+{"pattern": "[X], who had the official role of [Y] ."}
+{"pattern": "[X], who had the position of [Y] ."}
+{"pattern": "[X], who had the public position of [Y] ."}
+{"pattern": "[X], who had the public role of [Y] ."}
+{"pattern": "[X], who had the role of [Y] ."}
+{"pattern": "[X], who has the official position of [Y] ."}
+{"pattern": "[X], who has the official role of [Y] ."}
+{"pattern": "[X], who has the position of [Y] ."}
+{"pattern": "[X], who has the public position of [Y] ."}
+{"pattern": "[X], who has the public role of [Y] ."}
+{"pattern": "[X], who has the role of [Y] ."}
+{"pattern": "[X], who held the official position of [Y] ."}
+{"pattern": "[X], who held the official role of [Y] ."}
+{"pattern": "[X], who held the position of [Y] ."}
+{"pattern": "[X], who held the public position of [Y] ."}
+{"pattern": "[X], who held the public role of [Y] ."}
+{"pattern": "[X], who held the role of [Y] ."}
+{"pattern": "[X], who holds the official position of [Y] ."}
+{"pattern": "[X], who holds the official role of [Y] ."}
+{"pattern": "[X], who holds the position of [Y] ."}
+{"pattern": "[X], who holds the public position of [Y] ."}
+{"pattern": "[X], who holds the public role of [Y] ."}
+{"pattern": "[X], who holds the role of [Y] ."}
+{"pattern": "[X], who officially held the position of [Y] ."}
+{"pattern": "[X], who officially held the role of [Y] ."}
+{"pattern": "[X], who officially holds the position of [Y] ."}
+{"pattern": "[X], who officially holds the role of [Y] ."}
+{"pattern": "[X], whose official position is that of [Y] ."}
+{"pattern": "[X], whose official position was that of [Y] ."}
+{"pattern": "[X], whose official role is that of [Y] ."}
+{"pattern": "[X], whose official role was that of [Y] ."}
+{"pattern": "[X], whose position is that of [Y] ."}
+{"pattern": "[X], whose position was that of [Y] ."}
+{"pattern": "[X], whose public position is that of [Y] ."}
+{"pattern": "[X], whose public position was that of [Y] ."}
+{"pattern": "[X], whose public role is that of [Y] ."}
+{"pattern": "[X], whose public role was that of [Y] ."}
+{"pattern": "[X], whose role is that of [Y] ."}
+{"pattern": "[X], whose role was that of [Y] ."}
+{"pattern": "Did [X] have the official position of [Y]?"}
+{"pattern": "Did [X] have the official role of [Y]?"}
+{"pattern": "Did [X] have the position of [Y]?"}
+{"pattern": "Did [X] have the public position of [Y]?"}
+{"pattern": "Did [X] have the public role of [Y]?"}
+{"pattern": "Did [X] have the role of [Y]?"}
+{"pattern": "Did [X] hold the official position of [Y]?"}
+{"pattern": "Did [X] hold the official role of [Y]?"}
+{"pattern": "Did [X] hold the position of [Y]?"}
+{"pattern": "Did [X] hold the public position of [Y]?"}
+{"pattern": "Did [X] hold the public role of [Y]?"}
+{"pattern": "Did [X] hold the role of [Y]?"}
+{"pattern": "Did [X] officially hold the position of [Y]?"}
+{"pattern": "Did [X] officially hold the public position of [Y]?"}
+{"pattern": "Did [X] officially hold the public role of [Y]?"}
+{"pattern": "Did [X] officially hold the role of [Y]?"}
+{"pattern": "Does [X] have the official position of [Y]?"}
+{"pattern": "Does [X] have the official role of [Y]?"}
+{"pattern": "Does [X] have the position of [Y]?"}
+{"pattern": "Does [X] have the public position of [Y]?"}
+{"pattern": "Does [X] have the public role of [Y]?"}
+{"pattern": "Does [X] have the role of [Y]?"}
+{"pattern": "Does [X] hold the official position of [Y]?"}
+{"pattern": "Does [X] hold the official role of [Y]?"}
+{"pattern": "Does [X] hold the position of [Y]?"}
+{"pattern": "Does [X] hold the public position of [Y]?"}
+{"pattern": "Does [X] hold the public role of [Y]?"}
+{"pattern": "Does [X] hold the role of [Y]?"}
+{"pattern": "Does [X] officially hold the position of [Y]?"}
+{"pattern": "Does [X] officially hold the public position of [Y]?"}
+{"pattern": "Does [X] officially hold the public role of [Y]?"}
+{"pattern": "Does [X] officially hold the role of [Y]?"}
+{"pattern": "Is [X]'s official position [Y]?"}
+{"pattern": "Is [X]'s official position that of [Y]?"}
+{"pattern": "Is [X]'s official role [Y]?"}
+{"pattern": "Is [X]'s official role that of [Y]?"}
+{"pattern": "Is [X]'s position [Y]?"}
+{"pattern": "Is [X]'s position that of [Y]?"}
+{"pattern": "Is [X]'s public position [Y]?"}
+{"pattern": "Is [X]'s public position that of [Y]?"}
+{"pattern": "Is [X]'s public role [Y]?"}
+{"pattern": "Is [X]'s public role that of [Y]?"}
+{"pattern": "Is [X]'s role [Y]?"}
+{"pattern": "Is [X]'s role that of [Y]?"}
+{"pattern": "Was [X]'s official position [Y]?"}
+{"pattern": "Was [X]'s official position that of [Y]?"}
+{"pattern": "Was [X]'s official role [Y]?"}
+{"pattern": "Was [X]'s official role that of [Y]?"}
+{"pattern": "Was [X]'s position [Y]?"}
+{"pattern": "Was [X]'s position that of [Y]?"}
+{"pattern": "Was [X]'s public position [Y]?"}
+{"pattern": "Was [X]'s public position that of [Y]?"}
+{"pattern": "Was [X]'s public role [Y]?"}
+{"pattern": "Was [X]'s public role that of [Y]?"}
+{"pattern": "Was [X]'s role [Y]?"}
+{"pattern": "Was [X]'s role that of [Y]?"}

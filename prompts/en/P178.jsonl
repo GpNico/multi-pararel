@@ -1,0 +1,23 @@
+{"pattern": "[X] and its product [Y] ."}
+{"pattern": "[X] builds [Y] ."}
+{"pattern": "[X] develops [Y] ."}
+{"pattern": "[X] makes [Y] ."}
+{"pattern": "[X] manufactures [Y] ."}
+{"pattern": "[X] produces [Y] ."}
+{"pattern": "[X], that builds [Y] ."}
+{"pattern": "[X], that created [Y] ."}
+{"pattern": "[X], that developed [Y] ."}
+{"pattern": "[X], that develops [Y] ."}
+{"pattern": "[X], that makes [Y] ."}
+{"pattern": "[X], that manufactures [Y] ."}
+{"pattern": "[X], that produces [Y] ."}
+{"pattern": "[X], the creator of the [Y] ."}
+{"pattern": "Did [X] create [Y]?"}
+{"pattern": "Does [X] develop [Y]?"}
+{"pattern": "Does [X] make [Y]?"}
+{"pattern": "Does [X] manufacture [Y]?"}
+{"pattern": "Does [X] produce [Y]?"}
+{"pattern": "Is [X] the creator of [Y]?"}
+{"pattern": "Is [X] the creator of the [Y]?"}
+{"pattern": "Was [X] the creator of [Y]?"}
+{"pattern": "Was [X] the creator of the [Y]?"}

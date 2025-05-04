@@ -1,0 +1,6 @@
+{"pattern": "[X] can be found in [Y] ."}
+{"pattern": "[X] is in [Y] ."}
+{"pattern": "[X] is located in [Y] ."}
+{"pattern": "Can [X] be found in [Y]?"}
+{"pattern": "Is [X] in [Y]?"}
+{"pattern": "Is [X] located in [Y]?"}

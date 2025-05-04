@@ -1,0 +1,21 @@
+{"pattern": "[X] is called after [Y] ."}
+{"pattern": "[X] is named after [Y] ."}
+{"pattern": "[X] is named for [Y] ."}
+{"pattern": "[X] was called after [Y] ."}
+{"pattern": "[X] was named after [Y] ."}
+{"pattern": "[X] was named for [Y] ."}
+{"pattern": "[X], called after [Y] ."}
+{"pattern": "[X], named after [Y] ."}
+{"pattern": "[X], named for [Y] ."}
+{"pattern": "[X], which is called after [Y] ."}
+{"pattern": "[X], which is named after [Y] ."}
+{"pattern": "[X], which is named for [Y] ."}
+{"pattern": "[X], which was called after [Y] ."}
+{"pattern": "[X], which was named after [Y] ."}
+{"pattern": "[X], which was named for [Y] ."}
+{"pattern": "Is [X] called after [Y]?"}
+{"pattern": "Is [X] named after [Y]?"}
+{"pattern": "Is [X] named for [Y]?"}
+{"pattern": "Was [X] called after [Y]?"}
+{"pattern": "Was [X] named after [Y]?"}
+{"pattern": "Was [X] named for [Y]?"}

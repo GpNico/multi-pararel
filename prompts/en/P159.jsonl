@@ -1,0 +1,17 @@
+{"pattern": "The headquarter of [X] is in [Y] ."}
+{"pattern": "The headquarter of [X] is located in [Y] ."}
+{"pattern": "The headquarters of [X] are in [Y] ."}
+{"pattern": "The headquarters of [X] are located in [Y] ."}
+{"pattern": "[X] is based in [Y] ."}
+{"pattern": "[X] is headquartered in [Y] ."}
+{"pattern": "[X] is located in [Y] ."}
+{"pattern": "[X]'s headquarters are in [Y] ."}
+{"pattern": "[X], whose headquarters are in [Y] ."}
+{"pattern": "Are [X]'s headquarters in [Y]?"}
+{"pattern": "Are the headquarters of [X] in [Y]?"}
+{"pattern": "Are the headquarters of [X] located in [Y]?"}
+{"pattern": "Is [X] based in [Y]?"}
+{"pattern": "Is [X] headquartered in [Y]?"}
+{"pattern": "Is [X] located in [Y]?"}
+{"pattern": "Is the headquarter of [X] in [Y]?"}
+{"pattern": "Is the headquarter of [X] located in [Y]?"}

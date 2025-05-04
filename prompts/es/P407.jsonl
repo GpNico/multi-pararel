@@ -1,0 +1,14 @@
+{"pattern": "El idioma de [X] es el [Y]."}
+{"pattern": "El idioma de [X] era el [Y]."}
+{"pattern": "[X] es una obra escrita en [Y]."}
+{"pattern": "[X] est\u00e1 escrito en [Y]."}
+{"pattern": "[X] fue una obra escrita en [Y]."}
+{"pattern": "[X] fue creado en [Y]."}
+{"pattern": "[X] fue escrito en [Y]."}
+{"pattern": "\u00bf[X] es una obra en [Y]?"}
+{"pattern": "\u00bf[X] es una obra escrita en [Y]?"}
+{"pattern": "\u00bf[X] est\u00e1 escrito en [Y]?"}
+{"pattern": "\u00bfFue [X] una obra en [Y]?"}
+{"pattern": "\u00bf[X] fue una obra escrita en [Y]?"}
+{"pattern": "\u00bf[X] fue creado en [Y]?"}
+{"pattern": "\u00bf[X] fue escrito en [Y]?"}

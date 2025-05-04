@@ -1,0 +1,15 @@
+{"pattern": "[X] has class [Y] ."}
+{"pattern": "[X] is a [Y] ."}
+{"pattern": "[X] is a kind of [Y] ."}
+{"pattern": "[X] is a subclass of [Y] ."}
+{"pattern": "[X] is a type of [Y] ."}
+{"pattern": "[X] is of class [Y] ."}
+{"pattern": "[X], a subclass of [Y] ."}
+{"pattern": "[X], a type of [Y] ."}
+{"pattern": "[X], which is a subclass of [Y] ."}
+{"pattern": "Does [X] have class [Y]?"}
+{"pattern": "Is [X] a [Y]?"}
+{"pattern": "Is [X] a kind of [Y]?"}
+{"pattern": "Is [X] a subclass of [Y]?"}
+{"pattern": "Is [X] a type of [Y]?"}
+{"pattern": "Is [X] of class [Y]?"}

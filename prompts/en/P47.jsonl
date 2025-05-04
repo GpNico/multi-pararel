@@ -1,0 +1,18 @@
+{"pattern": "[X] borders with [Y] ."}
+{"pattern": "[X] shares a border with [Y] ."}
+{"pattern": "[X] shares a common border with [Y] ."}
+{"pattern": "[X] shares border with [Y] ."}
+{"pattern": "[X] shares borders with [Y] ."}
+{"pattern": "[X] shares its border with [Y] ."}
+{"pattern": "[X] shares its borders with [Y] ."}
+{"pattern": "[X] shares the border with [Y] ."}
+{"pattern": "[X] shares the borders with [Y] ."}
+{"pattern": "Does [X] border with [Y]?"}
+{"pattern": "Does [X] share a border with [Y]?"}
+{"pattern": "Does [X] share a common border with [Y]?"}
+{"pattern": "Does [X] share border with [Y]?"}
+{"pattern": "Does [X] share borders with [Y]?"}
+{"pattern": "Does [X] share its border with [Y]?"}
+{"pattern": "Does [X] share its borders with [Y]?"}
+{"pattern": "Does [X] share the border with [Y]?"}
+{"pattern": "Does [X] share the borders with [Y]?"}

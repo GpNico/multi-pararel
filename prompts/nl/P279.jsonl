@@ -1,0 +1,14 @@
+{"pattern": "[X] heeft klasse [Y]."}
+{"pattern": "[X] is een [Y]."}
+{"pattern": "[X] is een soort [Y]."}
+{"pattern": "[X] is een subklasse van [Y]."}
+{"pattern": "[X] is een type [Y]."}
+{"pattern": "[X] is van de klasse [Y]."}
+{"pattern": "[X], een subklasse van [Y]."}
+{"pattern": "[X], een soort [Y]."}
+{"pattern": "Heeft [X] klas[Y]?"}
+{"pattern": "Is [X] een [Y]?"}
+{"pattern": "Is [X] een soort [Y]?"}
+{"pattern": "Is [X] een subklasse van [Y]?"}
+{"pattern": "Is een [X] een soort [Y]?"}
+{"pattern": "Is [X] van de klasse [Y]?"}

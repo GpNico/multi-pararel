@@ -1,0 +1,12 @@
+{"pattern": "[X] a communiqu\u00e9 en [Y]."}
+{"pattern": "[X] communique en [Y]."}
+{"pattern": "[X] est un locuteur d'[Y]."}
+{"pattern": "[X] parle [Y]."}
+{"pattern": "[X] parlait [Y]."}
+{"pattern": "[X] communiquait en [Y]."}
+{"pattern": "[X] communiquait en [Y]?"}
+{"pattern": "[X] parlait [Y]?"}
+{"pattern": "[X] communique-t-il en [Y]?"}
+{"pattern": "[X] parle [Y]?"}
+{"pattern": "[X] parle le [Y]?"}
+{"pattern": "[X] parlait-il l'[Y]?"}

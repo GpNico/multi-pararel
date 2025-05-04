@@ -1,0 +1,17 @@
+{"pattern": "Le continent du [X] est l'[Y]."}
+{"pattern": "Le [X] appartient au continent [Y]."}
+{"pattern": "Le [X] appartient au continent de l'[Y]."}
+{"pattern": "Le [X] fait partie du continent [Y]."}
+{"pattern": "L'[X] fait partie du continent [Y]."}
+{"pattern": "Le [X] fait partie du continent de l'[Y]."}
+{"pattern": "Le [X] est situ\u00e9 en [Y]."}
+{"pattern": "Le [X] est situ\u00e9 sur le continent [Y]."}
+{"pattern": "L'[X] est situ\u00e9e sur le continent [Y]."}
+{"pattern": "Le [X] appartient-il au continent [Y]?"}
+{"pattern": "Le [X] appartient-il au continent de l'[Y]?"}
+{"pattern": "Le [X] fait-il partie du continent [Y]?"}
+{"pattern": "L'[X] fait-elle partie du continent [Y]?"}
+{"pattern": "[X] fait-il partie du continent de l'[Y]?"}
+{"pattern": "Le [X] est-il situ\u00e9 en [Y]?"}
+{"pattern": "L'[X] est-elle situ\u00e9e sur le continent [Y]?"}
+{"pattern": "[X] est-il situ\u00e9 sur le continent [Y]?"}

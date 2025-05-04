@@ -1,0 +1,16 @@
+{"pattern": "El lugar de nacimiento de [X] es [Y]."}
+{"pattern": "[X] es nativo de [Y]."}
+{"pattern": "[X] es originario de [Y]."}
+{"pattern": "[X] fue originario de [Y]."}
+{"pattern": "[X] es originaria de [Y]."}
+{"pattern": "[X] naci\u00f3 en [Y]."}
+{"pattern": "[X] fue nativo de [Y]."}
+{"pattern": "[X] era originario de [Y]."}
+{"pattern": "[X] nacieron en [Y]."}
+{"pattern": "\u00bf[X] fue originario de [Y]?"}
+{"pattern": "\u00bf[X] es originario de [Y]?"}
+{"pattern": "\u00bf[X] es nativo de [Y]?"}
+{"pattern": "\u00bf[X] es originaria de [Y]?"}
+{"pattern": "\u00bf[X] naci\u00f3 en [Y]?"}
+{"pattern": "\u00bf[X] era nativo de [Y]?"}
+{"pattern": "\u00bf[X] era originario de [Y]?"}

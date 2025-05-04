@@ -1,0 +1,13 @@
+{"pattern": "[X] belongs to the genre [Y] ."}
+{"pattern": "[X] is a musician in [Y] ."}
+{"pattern": "[X] plays [Y] ."}
+{"pattern": "[X] plays the following genre [Y] ."}
+{"pattern": "[X] plays the following music genre [Y] ."}
+{"pattern": "[X] plays the genre [Y] ."}
+{"pattern": "[X] plays the genre of [Y] ."}
+{"pattern": "[X] plays the music genre [Y] ."}
+{"pattern": "[X] plays the music genre of [Y] ."}
+{"pattern": "[X] specializes in the genre [Y] ."}
+{"pattern": "[X], who plays [Y] ."}
+{"pattern": "Does [X] play [Y]?"}
+{"pattern": "Is [X] a musician playing [Y]?"}

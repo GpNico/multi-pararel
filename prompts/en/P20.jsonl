@@ -1,0 +1,27 @@
+{"pattern": "The death location of [X] is [Y] ."}
+{"pattern": "The death location of [X] was [Y] ."}
+{"pattern": "The death place of [X] is [Y] ."}
+{"pattern": "The death place of [X] was [Y] ."}
+{"pattern": "The place of death of [X] is [Y] ."}
+{"pattern": "The place of death of [X] was [Y] ."}
+{"pattern": "[X] died at [Y] ."}
+{"pattern": "[X] died in [Y] ."}
+{"pattern": "[X] expired at [Y] ."}
+{"pattern": "[X] expired in [Y] ."}
+{"pattern": "[X] lost their life at [Y] ."}
+{"pattern": "[X] passed away at [Y] ."}
+{"pattern": "[X] passed away in [Y] ."}
+{"pattern": "[X] succumbed at [Y] ."}
+{"pattern": "[X]'s life ended in [Y] ."}
+{"pattern": "Did [X] die at [Y]?"}
+{"pattern": "Did [X] die in [Y]?"}
+{"pattern": "Did [X] expire at [Y]?"}
+{"pattern": "Did [X] expire in [Y]?"}
+{"pattern": "Did [X] lose their life at [Y]?"}
+{"pattern": "Did [X] lose their life in [Y]?"}
+{"pattern": "Did [X] pass away at [Y]?"}
+{"pattern": "Did [X] pass away in [Y]?"}
+{"pattern": "Did [X] succumb at [Y]?"}
+{"pattern": "Did [X] succumb in [Y]?"}
+{"pattern": "Did [X]'s life end at [Y]?"}
+{"pattern": "Did [X]'s life end in [Y]?"}

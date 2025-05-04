@@ -1,0 +1,14 @@
+{"pattern": "La [X] a des relations diplomatiques avec l'[Y]."}
+{"pattern": "L'[X] a des relations diplomatiques avec l'[Y]."}
+{"pattern": "La [X] entretient des relations diplomatiques avec l'[Y]."}
+{"pattern": "L'[X] entretient des relations diplomatiques avec l'[Y]."}
+{"pattern": "L'[X] entretient des relations diplomatiques avec le [Y]."}
+{"pattern": "La [X] \u00e9tablit des relations diplomatiques avec l'[Y]."}
+{"pattern": "La [X], qui a des relations diplomatiques avec l'[Y]."}
+{"pattern": "La [X], qui entretient des relations diplomatiques avec l'[Y]."}
+{"pattern": "La [X] a-t-elle des relations diplomatiques avec l'[Y]?"}
+{"pattern": "La [X] a-t-elle des liens diplomatiques avec l'[Y]?"}
+{"pattern": "La [X] entretient-elle des relations diplomatiques avec l'[Y]?"}
+{"pattern": "L'[X] entretient-elle des liens diplomatiques avec l'[Y]?"}
+{"pattern": "L'[X] entretient-elle des relations diplomatiques avec l'[Y]?"}
+{"pattern": "L'[X] entretient-elle des relations diplomatiques avec le [Y]?"}

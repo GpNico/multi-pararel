@@ -1,0 +1,25 @@
+{"pattern": "Le lieu de la mort de [X] est [Y]."}
+{"pattern": "Le lieu de la mort de [X] \u00e9tait [Y]."}
+{"pattern": "Le lieu de d\u00e9c\u00e8s de [X] est [Y]."}
+{"pattern": "Le lieu de d\u00e9c\u00e8s de [X] \u00e9tait [Y]."}
+{"pattern": "Le lieu de d\u00e9c\u00e8s d'[X] est [Y]."}
+{"pattern": "Le lieu de la mort d'[X] \u00e9tait [Y]."}
+{"pattern": "[X] est mort \u00e0 [Y]."}
+{"pattern": "[X] est d\u00e9c\u00e9d\u00e9 \u00e0 [Y]."}
+{"pattern": "[X] est d\u00e9c\u00e9d\u00e9e \u00e0 [Y]."}
+{"pattern": "[X] expira \u00e0 [Y]."}
+{"pattern": "[X] a perdu la vie \u00e0 [Y]."}
+{"pattern": "[X] a succomb\u00e9 \u00e0 [Y]."}
+{"pattern": "La vie de [X] s'est termin\u00e9e \u00e0 [Y]."}
+{"pattern": "[X] est mort \u00e0 [Y]?"}
+{"pattern": "[X] est morte \u00e0 [Y]?"}
+{"pattern": "[X] est d\u00e9c\u00e9d\u00e9e \u00e0 [Y]?"}
+{"pattern": "[X] est-il d\u00e9c\u00e9d\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] a-t-il perdu sa vie \u00e0 [Y]?"}
+{"pattern": "[X] a-t-il perdu la vie \u00e0 [Y]?"}
+{"pattern": "[X] est d\u00e9c\u00e9d\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] est- il mort \u00e0 [Y]?"}
+{"pattern": "[X] a-t-il succomb\u00e9 \u00e0 [Y]?"}
+{"pattern": "[X] a succomb\u00e9 \u00e0 [Y]?"}
+{"pattern": "La vie de [X] s'est termin\u00e9e \u00e0 [Y]?"}
+{"pattern": "La vie de [X] s'est-elle termin\u00e9e \u00e0 [Y]?"}

@@ -1,0 +1,8 @@
+{"pattern": "El pa\u00eds en el que se encuentra [X] es [Y]."}
+{"pattern": "El estado en el que se encuentra [X] es [Y]."}
+{"pattern": "[X] se encuentra en [Y]."}
+{"pattern": "[X] se encuentra en el siguiente pa\u00eds: [Y]."}
+{"pattern": "[X] se encuentra en el siguiente estado: [Y]."}
+{"pattern": "[X], ubicado en [Y]."}
+{"pattern": "[X], que se encuentra en [Y]."}
+{"pattern": "\u00bf[X] se encuentra en [Y]?"}
