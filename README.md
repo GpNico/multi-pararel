@@ -1,6 +1,6 @@
 # Multi‑ParaRel
 
-**Multi‑ParaRel** is an open‑source, multilingual prompt‑and‑triplet dataset released alongside the paper **“Qualifying Knowledge and Knowledge Sharing in Multilingual Models”** (TMLR 2025).
+**Multi‑ParaRel** is an open‑source, multilingual prompt‑and‑triplet dataset released alongside the paper [**“Qualifying Knowledge and Knowledge Sharing in Multilingual Models”** (TMLR 2025)](https://openreview.net/forum?id=hnpB3SRbZj).
 It extends the original **ParaRel** English‑only prompt set to **10 languages** and pairs every prompt with Wikidata‑based subject–relation–object (S‑R‑O) triplets from **mLAMA**.
 The goal is to let you probe, fine‑tune, or evaluate multilingual language models on factual knowledge with thousands of natural‑language paraphrases per relation.
 
